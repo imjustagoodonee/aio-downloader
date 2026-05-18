@@ -7,6 +7,340 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 23:03
+---
+
+## VahidOOnLine — post 240851
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240851_1779132827.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رسانه‌های ایران شامگاه دوشنبه از فعال شدن پدافند هوایی در جزیره قشم خبر دادند.
+
+خبرگزاری تسنیم، وابسته به سپاه پاسداران، نوشت: «پس از مشاهده ریزپرنده‌ها در آسمان جزیره قشم، پدافند برای نابودی اهداف متخاصم فعال شد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9274
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨🚨🚨 ترامپ در شبکه اجتماعی Truth Social: از من توسط امیر قطر، تمیم بن حمد آل ثانی، ولیعهد عربستان سعودی، محمد بن سلمان آل سعود، و رئیس‌جمهور امارات متحده عربی، محمد بن زاید آل نهیان، درخواست شده است که حمله نظامی برنامه‌ریزی‌شده ما به جمهوری اسلامی ایران را…
+</div>
+
+## FoxNewsTwitter — post 341895
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341895_1779132828.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: U.S. Attorney Jeanine Pirro issues a fierce warning to DC teens and parents as the city sees a rise in juvenile crime, including teenagers allegedly caught on video taking part in a massive Chipotle brawl:
+
+"We're coming for you, and we're coming for your parents."
+
+"If your teen, parents, is a curfew violator, you're subject to a $500 fine each and every time.”
+
+“If there are crimes under contributing to the delinquency of a minor, you face up to 6 months in prison.”
+
+“I am not shy about looking for jail time."
+
+"The people of the district have had enough and we do not want this increasing as these teens run wild through our neighborhoods."
+</div>
+
+## FoxNewsTwitter — post 341894
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341894_1779132831.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: EPA Administrator Zeldin, RFK Jr hold briefing on fight against chemical contamination https://twitter.com/i/broadcasts/1OxwblrzzpqJB
+</div>
+
+## FoxNewsTwitter — post 341893
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341893_1779132832.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @TheStoryFNC: PRESIDENT TRUMP POSTPONES ATTACK ON IRAN
+
+BREAKING NOW: President Trump says he is postponing planned military attack on Iran scheduled for tomorrow at the request of Qatar, Saudi Arabia and UAE
+</div>
+
+## pm_afshaa — post 90986
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترکیه هم به جمهوری اسلامی پشت کرد
+
+هاکان فیدان وزیر امور خارجه ترکیه:
+اورانیوم غنی شده ایران باید خارج شود یا به صورت سه و نیم درصدی تغییر داده شود
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90985
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴خبرآنلاین: برخی شواهد نشان می‌دهد کشورهای عربی در کنار ترامپ در حال لابی گسترده علیه جمهوری اسلامی در چین هستن
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337829
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337829_1779132835.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مصطفی دانشگر، تحلیل‌گر سیاسی، گفت طرح مطلوب آمریکا برای جمهوری اسلامی، مدل ونزوئلا است. او افزود تصور دونالد ترامپ و ایالات متحده این است که پس از حذف و کنار زدن برخی مقام‌های جمهوری اسلامی در جریان جنگ اخیر، اکنون می‌توانند فردی را در درون ساختار حکومت پیدا کنند.
+@iranintltv
+</div>
+
+## FarsiVOA — post 218084
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️علی جوانمردی: جمهوری اسلامی مسئول هرگونه اقدام نظامی در ایران است
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14447
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14447_1779132838.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ساعاتی قبل پدافند هوایی جزیره قشم فعال شد.
+
+
+💢 تسنیم: پس از مشاهده ریز پرنده‌ها در آسمان جزیره، پدافند در جهت نابودی اهداف متخاصم فعال شد!
+
+
+👑Phantom
+👑
+
+📮@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14446
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فعال شدن پدافند قشم علیه ریزپرنده‌ها 💢 در پی فعالیت پدافند در جزیره قشم، خبرنگار تسنیم از منابع مطلع کسب اطلاع کرد که پس از مشاهده ریز پرنده‌ها در آسمان جزیره، پدافند در جهت نابودی اهداف متخاصم فعال شد. 🫆:Tony 📌 @persian_trend_official پرشین ترند | متفاوت‌ترین…
+</div>
+
+## Persian_Trend_Official — post 14445
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14445_1779132839.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فعال شدن پدافند قشم علیه ریزپرنده‌ها
+
+💢 در پی فعالیت پدافند در جزیره قشم، خبرنگار تسنیم از منابع مطلع کسب اطلاع کرد که پس از مشاهده ریز پرنده‌ها در آسمان جزیره، پدافند در جهت نابودی اهداف متخاصم فعال شد.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## BBCPersian — post 281393
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دونالد ترامپ می‌گوید که قرار بود فردا به ایران حمله نظامی کند اما به درخواست امیر قطر، ولیعهد عربستان و امارات متحده عربی این حمله را به تعویق انداخته است. او در پستی در شبکه اجتماعی تروث سوشال نوشت: «از من خواسته شده است حمله نظامی برنامه‌ریزی‌شده ما علیه…
+</div>
+
+## BBCPersian — post 281392
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281392_1779132840.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دونالد ترامپ می‌گوید که قرار بود فردا به ایران حمله نظامی کند اما به درخواست امیر قطر، ولیعهد عربستان و امارات متحده عربی این حمله را به تعویق انداخته است.
+
+او در پستی در شبکه اجتماعی تروث سوشال نوشت: «از من خواسته شده است حمله نظامی برنامه‌ریزی‌شده ما علیه جمهوری اسلامی ایران را که قرار بود فردا انجام شود، به تعویق بیندازم؛ زیرا مذاکرات جدی اکنون در جریان است و به باور آن‌ها، به‌عنوان رهبران بزرگ و متحدان ما، توافقی حاصل خواهد شد که برای ایالات متحده آمریکا و همچنین همه کشورهای خاورمیانه و فراتر از آن بسیار قابل قبول خواهد بود.»
+
+او افزود: «این توافق نکته مهمی را در برخواهد داشت: ایران سلاح هسته‌ای نخواهد داشت.»
+
+
+📷 Getty Images
+https://bbc.in/3PpMOY6
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389703
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389703_1779132840.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+املاکی لحظاتی پیش پست زیر رو در تروث سوشا منتشر کرد:
+
+
+«از طرف امیر قرمساق قطر، ولیعهد قرمدنگ عربستان سعودی و رئیس قرمپف امارات متحده عربی از من خواسته شده که حمله نظامی برنامه‌ریزی‌شده‌مون به رژیم هزارپدر روافض رو که قرار بود فردا انجام بشه، دست نگه داریم و انجام ندیم؛
+چون الان مذاکرات جدی داره انجام میشه و به نظر این قرمساق‌‌ها به عنوان رهبران جاکش و متحدان ما، توافقی با روافض داره شکل می‌گیره که هم برای ایالات متحده آمریکا و هم برای همه کشورهای خاورمیانه و فراتر از اون، کاملاً قابل‌قبول خواهد بود.
+
+این توافق و این نکته خیلی مهمیه، شامل هیچ سلاح هسته‌ای برای رژیم روافض نمیشه.
+
+منم به خاطر احترامی که برای رهبرانی که نام بردم قائلم، به وزیر جنگ پیت هگست، رئیس ستاد مشترک ارتش ژنرال دانیال کین و ارتش ایالات متحده دستور دادم که حمله برنامه‌ریزی‌شده فردا به رژیم روافض رو انجام ندن.
+
+اما در عین حال بهشون دستور دادم برای موقعی که یه توافق قابل‌قبول به دست نیومد، در اسرع وقت آماده باشن تا یک حمله تمام‌عیار و بزرگ رو علیه رژیم شیعه‌سانان رافضی شروع کنن.
+
+ممنون از توجهتون به این موضوع!
+رئیس‌جمهور دونالد جی. ترامپ»
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389702
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389702_1779132841.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پزشکیان نخ داد که میخوان مذاکره بکنن:
+
+گفتگو به معنای تسلیم نیست؛
+جمهوری‌اسلامی ایران با عزت و اقتدار وارد گفتگو میشه و از حقوق خودش عقب‌نشینی نمیکنه.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113024
+
+<div align="center">
+  <img src="telegram/content/Hranews_113024_1779132842.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+میان موشک و سرکوب؛ گزارش مجموعه فعالان حقوق بشر درباره مخاصمه نظامی ایالات متحده-اسرائیل و ایران منتشر شد
+
+
+💥
+💥
+💥
+💥
+💥 – امروز، مجموعه فعالان حقوق بشر در ایران گزارش جدیدی را در ۲۴۰ صفحه و دو زبان منتشر کرد که به بررسی کارزار نظامی ایالات متحده و اسرائیل در ایران در فاصله ۹ اسفند ۱۴۰۴ تا ۱۹ فروردین ۱۴۰۵ (۲۸ فوریه تا ۸ آوریل ۲۰۲۶) می‌پردازد.
+
+این گزارش بر پایه ۱۷۷ منبع تأییدشده ــ شامل گزارش‌های منابع آزاد و شبکه میدانی مجموعه فعالان حقوق بشر در داخل کشور ــ ۶٬۳۲۴ رویداد منحصربه‌فرد شامل ۱۲٬۷۹۸ حمله مجزا را مستندسازی کرده است.
+مجموعه فعالان تاکید کرد این گزارش با هدف ارائه روایت جامع از کل درگیری تهیه نشده است. یافته‌های آن صرفاً به رویدادهایی محدود می‌شود که در داده‌های این نهاد مستندسازی و راستی‌آزمایی شده‌اند.
+
+📊 یافته‌های کلیدی گزارش
+◾️ ثبت ۶٬۳۲۴ رویداد منحصربه‌فرد و ۱۲٬۷۹۸ حمله مجزا
+◾️ ۷۷ درصد رویدادها شامل آسیب به غیرنظامیان یا اماکن غیرنظامی
+◾️ ثبت دست‌کم ۳٬۶۳۶ مورد مرگ، از جمله ۱٬۷۰۱ غیرنظامی
+◾️ کشته شدن ۳۰۷ کودک و زخمی شدن ۲٬۲۱۳ کودک
+◾️ تمرکز ۴۴٫۸۵ درصدی رویدادها در استان تهران
+◾️ هدف قرار گرفتن یا آسیب دیدن مدارس، مراکز درمانی، مراکز فرهنگی و زیرساخت‌های حیاتی
+
+⚠️ الگوهای نگران‌کننده
+این گزارش چندین الگوی نگران‌کننده را برجسته می‌کند، از جمله:
+◾️ ضعف در راستی‌آزمایی اهداف
+◾️ استفاده محدود از نظارت انسانی در برخی فناوری‌های هدف‌گیری
+◾️ هشدارهای ناکافی پیش از حملات
+◾️ استفاده از تسلیحات انفجاری سنگین در مناطق پرجمعیت
+◾️ حملات تکراری به برخی مناطق غیرنظامی
+◾️ آسیب گسترده به زیرساخت‌های غیرنظامی
+
+🚨 این گزارش همچنین به بازداشت گسترده شهروندان در ایران اشاره دارد؛ دست‌کم ۴٬۰۲۳ نفر با اتهامات مرتبط با امنیت ملی یا جنگ بازداشت شده‌اند.
+
+از سوی دیگر تشدید محدودیت‌های امنیتی، گسترش ایست‌های بازرسی و محدودیت‌های گسترده اینترنت از دیگر پیامدهای مستندسازی‌شده عنوان شده است.
+
+در همین بازه زمانی، ۵۰ مورد اعدام ثبت شده که ۳۲ مورد آن با اتهامات سیاسی و امنیتی مرتبط بوده است.
+
+
+📎 ادامه گزارش به زبان فارسی
+
+📎 دانلود مستقیم فایل پی دی اف گزارش از تلگرام
+
+📎 Complete report in English
+
+📎Direct download of the English PDF
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## Hranews — post 113023
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امیرحسین شیخ‌محمدی در کرج بازداشت شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– امیرحسین شیخ‌محمدی، دانشجوی دانشگاه آزاد کرج صبح امروز توسط نیروهای امنیتی در این شهر بازداشت شد.
+
+#امیرحسین_شیخ‌محمدی
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 120951
+
+<div align="center">
+  <a href="telegram/content/alonews_120951_1779132843.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: من به وزیر جنگ، رئیس ستاد مشترک و ارتش امریکا دستور داده‌ام که آماده باشند تا در صورت عدم دستیابی به توافق قابل قبول، حمله‌ای کامل و گسترده و همه‌جانبه به ایران را با کمترین هشدار ممکن انجام دهند این آخرین فرصت ایران برای توافق است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120950
+
+<div align="center">
+  <a href="telegram/content/alonews_120950_1779132843.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈صداوسیما: ترامپ برای پنجمین بار از جنگ مقابل ایران فرار کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120949
+
+<div align="center">
+  <a href="telegram/content/alonews_120949_1779132843.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 پلیس سن دیگو گزارش تیراندازی فعال در مرکز اسلامی سن دیگو را اعلام کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 22:54
 ---
 
