@@ -7,6 +7,94 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 03:13
+---
+
+## VahidOOnLine — post 241063
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241063_1779234194.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️احمد‌الشرع، رئیس‌جمهوری سوریه با انتشار پیامی در اکس از ارسال هدیه‌ از سوی دونالد ترامپ، رئیس‌جمهوری آمریکا تشکر کرد. در این پیام آمده است:
+«بعضی دیدارها اثری ماندگار بر جا می‌گذارند؛ دیدار ما ظاهرا عطری از خود به جا گذاشت.
+آقای دونالد ترامپ،بابت سخاوت شما و کامل‌تر کردن این هدیه ارزشمند سپاسگزارم. امیدوارم روح آن دیدار همچنان به شکل‌گیری رابطه‌ای قوی‌تر میان سوریه و ایالات متحده کمک کند.»
+
+ در دیداری که در تاریخ ۲۱ آبان ۱۴۰۴ در سفر الشرع به آمریکا انجام شد دونالد ترامپ به او عطر هدیه داد و اکنون دوباره برای او عطر ارسال کرده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341969
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341969_1779234195.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+President Trump's thumb on the scale proved to be the difference maker for Rep. Andy Barr.
+
+Barr emerged from a packed Republican field to win Kentucky's Senate primary, setting him up for a November showdown to replace retiring Sen. Mitch McConnell.
+
+The race quickly became one of the most closely watched GOP primaries in the country because of McConnell’s looming exit and the battle over the future direction of the Republican Party.
+</div>
+
+## IranianMinds — post 20417
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 برد کوپر، فرمانده سنتکام درباره مدرسه میناب:
+
+ایالات متحده عمدا به غیرنظامیان حمله نمی‌کند. مردم ایران دشمن ما نیستند. سپاه پاسداران انقلاب اسلامی در این مورد دشمن است.
+تحقیقات در حال انجام است. این یک تحقیق پیچیده است. چون این مدرسه داخل یک سایت فعال موشک‌های کروز جمهوری اسلامی قرار داشته
+هر دو طرف باید اسناد مربوط به این مدرسه رو منتشر کنن و پرونده کشته‌شدن این تعداد دانش‌آموز نیاز به شفافیت کامل داره
+انتظار شفاف‌سازی از طرف جمهوری اسلامی را نداریم
+به محض اتمام تحقیقات، من کاملاً متعهد به شفافیت هستم.
+به عنوان فرماندهان نظامی، ما از قوانین درگیری مسلحانه و مسئولیت‌های قانون اساسی خود پیروی می‌کنیم و همین کاری است که انجام داده‌ایم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20416
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20416_1779234195.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💥 با هر ثبت نام 
+🅰️
+🅰️
+🅰️  هزار تومن جایزه بگیرید
+
+
+✔️ میتونید شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید
+
+⚽️  پوشش کامل مسابقات ورزشی 
+
+💯  پیش‌بینی با بهترین ضرایب 
+
+⭐️ تجربه سریع و حرفه‌ای
+
+
+💰پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن
+
+
+☑️ کانال تلگرام: 
+
+➡️ @winro_io  
+
+
+🎁 هدیه خود را با ثبت نام در سایت دریافت کنید: 
+
+➡️ Winro.io
+A29
+سایت اصلی در روزهای آینده بازگشایی خواهد شد A
+💎
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 03:03
 ---
 
