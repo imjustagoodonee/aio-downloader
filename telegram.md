@@ -7,6 +7,110 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/31 00:32
+---
+
+## WithYashar — post 11801
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ادعای «میدل ایست آی»: دونالد ترامپ، حمله برنامه‌ریزی‌شده به ایران را در این هفته به تعویق انداخت، چراکه متحدان عرب و مقامات دولت خودش به او هشدار دادند در ایام حج، جنگ را از سر نگیرد. به گفته دو مقام ارشد کشورهای حوزه خلیج‌فارس، به ترامپ گفته شده بود که حمله…
+</div>
+
+## WithYashar — post 11800
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ادعای «میدل ایست آی»: دونالد ترامپ، حمله برنامه‌ریزی‌شده به ایران را در این هفته به تعویق انداخت، چراکه متحدان عرب و مقامات دولت خودش به او هشدار دادند در ایام حج، جنگ را از سر نگیرد.
+
+به گفته دو مقام ارشد کشورهای حوزه خلیج‌فارس، به ترامپ گفته شده بود که حمله به ایران در ایام حج، بحرانی را در میان کشورهای عربی حاشیه خلیج فارس ایجاد می‌کند، زیرا این حمله باعث می‌شود صدها هزار زائر حج سرگردان بمانند.
+
+منابع همچنین گفتند که به ترامپ گفته شده بود حمله در این ایام مقدس که منتهی به عید قربان می‌شود، بیشتر از این به جایگاه آمریکا در جهان اسلام لطمه می‌زند.
+
+یک مقام ارشد آمریکایی که از بحث‌های جریان‌یافته در دولت ترامپ آگاه است، تأیید کرد که این گفت‌وگوها انجام شده است
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 342027
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342027_1779310976.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A Texas Democrat is getting ripped by members of her own party after making shocking comments online.
+
+Congressional candidate Maureen Galindo posted that she wants to lock up “American Zionists” in an ICE detention facility.
+
+Galindo — a sex therapist and housing activist running in the Democratic runoff for Texas’ newly redrawn 35th Congressional District — also said she would lock up former ICE officers and turn the local ICE detention center into a “castration processing center for pedophiles, which will probably be most of the Zionists.”
+
+The comments sparked outrage, with critics calling them antisemitic. Even fellow Democrats and The New York Times condemned the remarks, with the paper urging voters not to let her win the runoff.
+
+Jewish Democratic Rep. Jared Moskowitz accused Galindo of proposing “concentration camps for American Jews,” while Sen. Ruben Gallego said she should “never be allowed in any political office.”
+</div>
+
+## Persian_Trend_Official — post 14559
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢ادعای «میدل ایست آی»:
+
+🔹سه منبع گفتند که انتظار دارند جنگ در هفته‌های آینده و پس از پایان دوره حج، از سر گرفته شود
+
+🔹ایالات متحده در گذشته از سیگنال‌های فریبنده و حیله‌های دیگر استفاده کرده تا سعی کند طرف مقابل را دچار احساس امنیت کاذب کند
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 121438
+
+<div align="center">
+  <a href="telegram/content/alonews_121438_1779310977.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈زاکانی شهردار تهران: آمریکا ته زورشو زد و دیگه جرات حمله نداره
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121437
+
+<div align="center">
+  <a href="telegram/content/alonews_121437_1779310978.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اوکراین تعداد زیادی پهپاد به سمت غرب روسیه و کریمه پرتاب کرده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121436
+
+<div align="center">
+  <a href="telegram/content/alonews_121436_1779310978.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای «میدل ایست آی»: دونالد ترامپ، حمله برنامه‌ریزی‌شده به ایران را در این هفته به تعویق انداخت، چراکه متحدان عرب و مقامات دولت خودش به او هشدار دادند در ایام حج، جنگ را از سر نگیرد. 
+🔴به گفته دو مقام ارشد کشورهای حوزه خلیج‌فارس، به ترامپ گفته شده بود که…
+</div>
+
+## alonews — post 121435
+
+<div align="center">
+  <a href="telegram/content/alonews_121435_1779310978.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرستاده ویژه ترامپ به گرینلند جف لندری: زمان آن است که ایالات متحده ردپای خود را دوباره در گرینلند بگذارد 
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 00:22
 ---
 
