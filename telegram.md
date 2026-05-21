@@ -7,6 +7,170 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/31 22:22
+---
+
+## WithYashar — post 11869
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وال‌استریت ژورنال: کویت بر اثر جنگ ایران منزوی شده؛ با بسته شدن تنگه هرمز، صادرات ۲ میلیون بشکه نفتی روزانه این کشور متوقف شده و واردات مایحتاج از مسیر زمینی عربستان، ۶ برابر هزینه حمل دریایی تمام می‌شود.
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 342075
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342075_1779389577.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Sen. Schumer holds press conference on budget reconciliation bill https://twitter.com/i/broadcasts/1OxwbldYjOrJB
+</div>
+
+## DEJradio — post 4828
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4828_1779389578.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+🔸 خبر ۲۱
+پنجشنبه ۳۱ اردیبهشت ۱۴۰۵
+
+#خبر۲۱
+@DEJradio
+</div>
+
+## kianmeli1 — post 87538
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87538_1779389578.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وال‌استریت ژورنال: کویت بر اثر جنگ ایران منزوی شده؛ با بسته شدن تنگه هرمز، صادرات ۲ میلیون بشکه نفتی روزانه این کشور متوقف شده و واردات مایحتاج از مسیر زمینی عربستان، ۶ برابر هزینه حمل دریایی تمام می‌شود.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87537
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87537_1779389579.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴یک بسته چیپس ساده نیم میلیون تومان!
+https://t.me/kianmeli1
+</div>
+
+## FarsiVOA — post 218312
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺نتایج یک نظرسنجی: دوسوم رای‌دهندگان آمریکایی ایالات متحده را برنده جنگ با رژیم ایران می‌دانند
+
+◾️فاکس‌نیوز روز پنجشنبه ۳۱ اردیبهشت با انتشار نتایج آخرین نظرسنجی خود اعلام کرد که حدود دوسوم، معادل ۶۵ درصد شرکت‌کنندگان در این رای‌گیری معتقدند که ایالات متحده در حال پیروزی در جنگ با رژیم ایران است.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/donald-trump-success-in-war-poll/8152423.html
+</div>
+
+## DW_Farsi — post 124982
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 فقط "بله" یعنی رضایت
+
+در بسیاری از کشورهای اروپایی، قربانیان هنوز باید ثابت کنند که مقاومت کرده‌اند تا یک تعرض، "تجاوز" شناخته شود. حالا اتحادیه اروپا پس از سال‌ها اعتراض عمومی، به‌دنبال اجرای قانونی تازه است: فقط "بله" یعنی رضایت.
+#dwcurrentaffairs
+@dw_farsi
+</div>
+
+## BBCPersian — post 281720
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281720_1779389579.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+سازمان ملل متحد روز پنجشنبه ۲۱ ماه مه را به عنوان «روز جهانی چای» نامگذاری کرده است. چای یکی از قدیمی‌ترین نوشیدنی‌های جهان است و پس از آب، پرمصرف‌ترین نوشیدنی در جهان محسوب می‌شود و انواع مختلفی دارد.
+
+سازمان ملل می‌گوید که چای چیزی بیش از یک نوشیدنی آرامش‌بخش است،‌ نوشیدنی که بخشی از زندگی روزمره و فرهنگ جوامع مختلف در سراسر جهان و منبع درآمد میلیون‌ها نفر است.
+
+سازمان غذا و کشاورزی ملل متحد، فائو، هم به این مناسبت در مطلبی نوشت که ریشه‌های نوشیدن چای به «بیش از پنج هزار سال پیش» برمی‌گردد و همچنان این نوشیدنی در سلامت، فرهنگ و توسعه اجتماعی و اقتصادی جوامع نقش دارد.
+
+فائو می‌گوید:‌ «چای در حال حاضر در مناطق بسیار محلی کشت می‌شود و بیش از ۱۳ میلیون نفر در سراسر جهان از جمله کشاورزان کوچک و خانواده‌های آنها از طریق کشت و تولید چای امرار معاش می‌کنند.»
+
+فائو می‌گوید که روز جهانی چای فرصتی است برای بزرگداشت میراث فرهنگی و فواید سلامتی و اهمیت اقتصادی چای و همچنین تلاشی برای پایدار کردن روند تولید و مصرف چای از «مزرعه تا فنجان» تا این نوشیدنی برای نسل‌های آینده هم باقی بماند.
+
+@BBCPersian
+</div>
+
+## alonews — post 121640
+
+<div align="center">
+  <a href="telegram/content/alonews_121640_1779389580.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس سابق میز ایران در سازمان اطلاعات نظامی اسرائیل: اینکه ترامپ به رغم مخالفت صریح نتانیاهو، با ایران مذاکره می‌کند، نکته‌ای قطعی است
+
+
+🔴 تا زمانی که رئیس‌جمهور آمریکا باور دارد که توافق قابل دستیابی است، اصلا با نخست‌وزیر اسرائیل همسو نیست
+
+
+🔴 از دیدگاه نتانیاهو، تقریباً هر توافقی با ایران خطرناک تلقی می‌شود، زیرا آزادی عمل تل‌آویو را محدود خواهد کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121639
+
+<div align="center">
+  <img src="telegram/content/alonews_121639_1779389580.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قیمت استثنایی گیگی
+9️⃣
+8️⃣
+1️⃣
+
+تحویل زیر یک دقیقه
+✅
+دارای لینک سابسکریشن جهت دیدن حجم و کنترل مصرف
+✅
+بدون قطعی 
+✅
+بدون محدودیت کاربر و زمان
+✅
+جمینایو چت جی بی تی و... کامل اوکیه با سرورامون
+✅
+
+🏪پشتیبانی کامل
+✅
+شروع فعالیت از سال 2022 
+✅
+پرداخت ریالی
+✅
+
+ضریب و این چیزا ندارن و تا آخرین مگابایت برای پشتیبانیش درختمتیم
+🥂
+
+
+💤این تخفیف فقط تا ۱۲ شب فعاله
+💤
+
+
+
+⭐️ @Napsternetiran_bot
+〰️〰️〰️〰️〰️〰️〰️
+
+
+🔶 @Napsternetvirani
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 22:13
 ---
 
