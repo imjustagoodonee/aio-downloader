@@ -59,19 +59,19 @@
    - [توکن استاتیک Cloudflare (CF_TUNNEL_TOKEN)](#۶-توکن-استاتیک-cloudflare-cf_tunnel_token)
    - [آپلود در Google Drive (GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, GOOGLE_REFRESH_TOKEN)](#۷-آپلود-در-google-drive-google_client_id-google_client_secret-google_refresh_token)
 4. [راهنمای کامل هر گردش کار (Workflow)](#-راهنمای-کامل-هر-گردش-کار-workflow)
-   - [۱. دانلودر یوتیوب (youtube-downloader)](#۱-دانلودر-یوتیوب-youtube-downloader)
-   - [۲. دانلودر اینستاگرام (instagram-downloader)](#۲-دانلودر-اینستاگرام-instagram-downloader)
-   - [۳. دانلودر X/توییتر (x-downloader)](#۳-دانلودر-xتوییتر-x-downloader)
-   - [۴. دانلودر مستقیم (direct-downloader)](#۴-دانلودر-مستقیم-direct-downloader)
+   - [۱. دانلودر یوتیوب (downloader-youtube)](#۱-دانلودر-یوتیوب-downloader-youtube)
+   - [۲. دانلودر اینستاگرام (downloader-instagram)](#۲-دانلودر-اینستاگرام-downloader-instagram)
+   - [۳. دانلودر X/توییتر (downloader-x)](#۳-دانلودر-xتوییتر-downloader-x)
+   - [۴. دانلودر مستقیم (downloader-direct)](#۴-دانلودر-مستقیم-downloader-direct)
    - [۵. آرشیو کانال تلگرام (telegram-fetcher)](#۵-آرشیو-کانال-تلگرام-telegram-fetcher)
-   - [۶. دانلودر تلگرام بتا (telegram-downloader-beta)](#۶-دانلودر-تلگرام-بتا-telegram-downloader-beta)
-   - [۷. ضبط وبسایت - PDF و MHTML (website-capture)](#۷-ضبط-وبسایت---pdf-و-mhtml-website-capture)
+   - [۶. دانلودر تلگرام بتا (downloader-telegram-beta)](#۶-دانلودر-تلگرام-بتا-downloader-telegram-beta)
+   - [۷. ضبط وبسایت - PDF و MHTML (fetcher-website)](#۷-ضبط-وبسایت---pdf-و-mhtml-fetcher-website)
    - [۸. لیچر قدرتمند (aio-leecher)](#۸-لیچر-قدرتمند-aio-leecher)
-   - [۹. دانلودر ساندکلود (soundcloud-downloader)](#۹-دانلودر-ساندکلود-soundcloud-downloader)
-   - [۱۰. دانلودر اسپاتیفای (spotify-downloader)](#۱۰-دانلودر-اسپاتیفای-spotify-downloader)
+   - [۹. دانلودر ساندکلود (downloader-soundcloud)](#۹-دانلودر-ساندکلود-downloader-soundcloud)
+   - [۱۰. دانلودر اسپاتیفای (downloader-spotify)](#۱۰-دانلودر-اسپاتیفای-downloader-spotify)
    - [۱۱. پاککننده جامع (aio-cleaner)](#۱۱-پاککننده-جامع-aio-cleaner)
-   - [۱۲. دانلودر گوگل پلی (google-play-downloader)](#۱۲-دانلودر-گوگل-پلی-google-play-downloader)
-   - [۱۳. دانلودر MEGA.nz (mega-nz-downloader)](#۱۳-دانلودر-meganz-mega-nz-downloader)
+   - [۱۲. دانلودر گوگل پلی (downloader-google-play)](#۱۲-دانلودر-گوگل-پلی-downloader-google-play)
+   - [۱۳. دانلودر MEGA.nz (downloader-mega-nz)](#۱۳-دانلودر-meganz-downloader-mega-nz)
    - [۱۴. Exit Node پایتون - داینامیک (python-mhrv-dynamic-exit-node)](#۱۴-exit-node-پایتون---داینامیک-python-mhrv-dynamic-exit-node)
    - [۱۵. Exit Node پایتون - استاتیک (python-mhrv-static-exit-node)](#۱۵-exit-node-پایتون---استاتیک-python-mhrv-static-exit-node)
    - [۱۶. Exit Node Zyrln - داینامیک (zyrln-cloudflare-dynamic-exit-node)](#۱۶-exit-node-zyrln---داینامیک-zyrln-cloudflare-dynamic-exit-node)
@@ -80,6 +80,7 @@
 6. [مشکل کندی checkout و راهحل آن](#-مشکل-کندی-checkout-و-راهحل-آن)
 7. [محدودیتها و هشدارهای مهم](#-محدودیتها-و-هشدارهای-مهم)
 8. [پشتیبانی](#-پشتیبانی)
+9. [فایل zoomusers.md چیست](#فایل-zoomusers.md-چیست)
 
 ---
 
@@ -168,7 +169,7 @@ https://x.com/robots.txt
 
 **Secret Name:** `YOUTUBE_COOKIES`
 **وضعیت:** اختیاری (اما بهشدت توصیه میشود)
-**مورد استفاده در:** youtube-downloader, aio-leecher
+**مورد استفاده در:** downloader-youtube, aio-leecher
 
 </div>
 
@@ -191,7 +192,7 @@ https://x.com/robots.txt
 
 **Secret Name:** `INSTAGRAM_COOKIES`
 **وضعیت:** اختیاری (برای استوری و محتوای خصوصی الزامی)
-**مورد استفاده در:** instagram-downloader, aio-leecher
+**مورد استفاده در:** downloader-instagram, aio-leecher
 
 </div>
 
@@ -211,7 +212,7 @@ https://x.com/robots.txt
 
 **Secret Name:** `X_COOKIES`
 **وضعیت:** **الزامی** ⚠️
-**مورد استفاده در:** x-downloader, aio-leecher
+**مورد استفاده در:** downloader-x, aio-leecher
 
 </div>
 
@@ -275,7 +276,7 @@ https://x.com/robots.txt
 
 **Secret Names:** `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `GOOGLE_REFRESH_TOKEN`
 **وضعیت:** کاملاً اختیاری
-**مورد استفاده در:** تمام workflowهایی که گزینه `upload_to_drive` دارند (youtube-downloader, instagram-downloader, direct-downloader, website-capture, aio-leecher, soundcloud-downloader, spotify-downloader, google-play-downloader, mega-nz-downloader)
+**مورد استفاده در:** تمام workflowهایی که گزینه `upload_to_drive` دارند (downloader-youtube, downloader-instagram, downloader-direct, fetcher-website, aio-leecher, downloader-soundcloud, downloader-spotify, downloader-google-play, downloader-mega-nz)
 
 </div>
 
@@ -362,7 +363,7 @@ GOOGLE_REFRESH_TOKEN → Refresh Token خود را بچسبانید
 
 ---
 
-### ۱. دانلودر یوتیوب (youtube-downloader)
+### ۱. دانلودر یوتیوب (downloader-youtube)
 
 <div dir="ltr" markdown="1">
 
@@ -382,7 +383,7 @@ GOOGLE_REFRESH_TOKEN → Refresh Token خود را بچسبانید
 - **🆕 آپلود خودکار در Google Drive**
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **youtube-downloader** → **Run workflow**
+1. **Actions** → **downloader-youtube** → **Run workflow**
 2. ورودی: `URL v/a رزولوشن fps` (fps اختیاری)
 
 <div dir="ltr" markdown="1">
@@ -414,7 +415,7 @@ https://www.youtube.com/watch?v=VIDEO_ID v 4k
 
 ---
 
-### ۲. دانلودر اینستاگرام (instagram-downloader)
+### ۲. دانلودر اینستاگرام (downloader-instagram)
 
 <div dir="ltr" markdown="1">
 
@@ -424,7 +425,7 @@ https://www.youtube.com/watch?v=VIDEO_ID v 4k
 </div>
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **instagram-downloader** → **Run workflow**
+1. **Actions** → **downloader-instagram** → **Run workflow**
 2. لینکها را با کاما، فاصله یا خط جدید جدا کنید.
 
 <div dir="ltr" markdown="1">
@@ -447,7 +448,7 @@ https://www.instagram.com/p/DX6US4uCNGb/
 
 ---
 
-### ۳. دانلودر X/توییتر (x-downloader)
+### ۳. دانلودر X/توییتر (downloader-x)
 
 <div dir="ltr" markdown="1">
 
@@ -456,7 +457,7 @@ https://www.instagram.com/p/DX6US4uCNGb/
 </div>
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **x-downloader** → **Run workflow**
+1. **Actions** → **downloader-x** → **Run workflow**
 2. لینکها را با کاما، فاصله یا خط جدید وارد کنید.
 
 <div dir="ltr" markdown="1">
@@ -472,7 +473,7 @@ https://x.com/otheruser/status/987654321
 
 ---
 
-### ۴. دانلودر مستقیم (direct-downloader)
+### ۴. دانلودر مستقیم (downloader-direct)
 
 <div dir="ltr" markdown="1">
 
@@ -486,7 +487,7 @@ https://x.com/otheruser/status/987654321
 - پشتیبانی از تمام لینکهای مستقیم (`.zip`, `.mp4`, `.apk`, `.pdf` و …)
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **direct-downloader** → **Run workflow**
+1. **Actions** → **downloader-direct** → **Run workflow**
 2. لینکهای مستقیم را بچسبانید.
 
 <div dir="ltr" markdown="1">
@@ -532,7 +533,7 @@ https://example.com/file.zip, https://example.com/video.mp4
 
 ---
 
-### ۶. دانلودر تلگرام بتا (telegram-downloader-beta)
+### ۶. دانلودر تلگرام بتا (downloader-telegram-beta)
 
 <div dir="ltr" markdown="1">
 
@@ -542,7 +543,7 @@ https://example.com/file.zip, https://example.com/video.mp4
 </div>
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **telegram-downloader-beta** → **Run workflow**
+1. **Actions** → **downloader-telegram-beta** → **Run workflow**
 2. لینک پستهای تلگرام را وارد کنید.
 
 <div dir="ltr" markdown="1">
@@ -557,7 +558,7 @@ https://t.me/channelname/123, https://t.me/channelname/456
 
 ---
 
-### ۷. ضبط وبسایت — PDF و MHTML (website-capture)
+### ۷. ضبط وبسایت — PDF و MHTML (fetcher-website)
 
 <div dir="ltr" markdown="1">
 
@@ -573,7 +574,7 @@ https://t.me/channelname/123, https://t.me/channelname/456
 - رندر با **Playwright + Chromium** برای صفحات داینامیک
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **website-capture** → **Run workflow**
+1. **Actions** → **fetcher-website** → **Run workflow**
 2. آدرس کامل با `https://` را وارد کنید.
 
 <div dir="ltr" markdown="1">
@@ -653,7 +654,7 @@ https://soundcloud.com/artist/track a 320
 
 ---
 
-### ۹. دانلودر ساندکلود (soundcloud-downloader)
+### ۹. دانلودر ساندکلود (downloader-soundcloud)
 
 <div dir="ltr" markdown="1">
 
@@ -663,7 +664,7 @@ https://soundcloud.com/artist/track a 320
 </div>
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **soundcloud-downloader** → **Run workflow**
+1. **Actions** → **downloader-soundcloud** → **Run workflow**
 2. لینکها را وارد کنید.
 
 <div dir="ltr" markdown="1">
@@ -685,7 +686,7 @@ https://soundcloud.com/artist/track
 
 ---
 
-### ۱۰. دانلودر اسپاتیفای (spotify-downloader) 🆕
+### ۱۰. دانلودر اسپاتیفای (downloader-spotify) 🆕
 
 <div dir="ltr" markdown="1">
 
@@ -698,7 +699,7 @@ https://soundcloud.com/artist/track
 > ℹ️ این دانلودر از **SpotiFLAC** استفاده میکند که بدون نیاز به هیچ اکانتی، موسیقی را با بهترین کیفیت ممکن (از جمله FLAC بدون اتلاف) دانلود میکند.
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **spotify-downloader** → **Run workflow**
+1. **Actions** → **downloader-spotify** → **Run workflow**
 2. لینکها را وارد کنید (ترک، آلبوم، پلیلیست، آرتیست).
 
 <div dir="ltr" markdown="1">
@@ -756,7 +757,7 @@ https://open.spotify.com/playlist/xxxxx
 
 ---
 
-### ۱۲. دانلودر گوگل پلی (google-play-downloader)
+### ۱۲. دانلودر گوگل پلی (downloader-google-play)
 
 <div dir="ltr" markdown="1">
 
@@ -766,7 +767,7 @@ https://open.spotify.com/playlist/xxxxx
 </div>
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **google-play-downloader** → **Run workflow**
+1. **Actions** → **downloader-google-play** → **Run workflow**
 2. **app**: نام پکیج (مثلاً `com.google.android.youtube`) یا لینک گوگل پلی.
 3. **architecture**: `arm64` (پیشفرض) یا `armv7`.
 4. **merge_splits**: ادغام APKهای چندبخشی (پیشفرض فعال).
@@ -792,7 +793,7 @@ merge_splits: true
 
 ---
 
-### ۱۳. دانلودر MEGA.nz (mega-nz-downloader) 🆕
+### ۱۳. دانلودر MEGA.nz (downloader-mega-nz) 🆕
 
 <div dir="ltr" markdown="1">
 
@@ -807,7 +808,7 @@ merge_splits: true
 - پشتیبانی از لینکهای فایل و فولدر
 
 #### 📝 نحوه استفاده:
-1. **Actions** → **mega-nz-downloader** → **Run workflow**
+1. **Actions** → **downloader-mega-nz** → **Run workflow**
 2. لینکهای MEGA را وارد کنید.
 
 <div dir="ltr" markdown="1">
@@ -947,7 +948,7 @@ https://random-name.trycloudflare.com
 ### ۷. Exit Node استاتیک پایتون
 قبلاً فقط نسخه داینامیک در README بود. نسخه استاتیک با دامنه ثابت اضافه شده است.
 
-### ۸. گزینههای پیشرفته در youtube-downloader
+### ۸. گزینههای پیشرفته در downloader-youtube
 ورودیهای جدید: `output_format` (mp4/mp3), `video_quality`, `audio_quality`.
 
 ---
@@ -996,13 +997,18 @@ https://random-name.trycloudflare.com
 
 ---
 
+## 👀 فایل zoomusers.md چیست
+- این فایل یک راهنمای جامع بر اساس موضوعات فورام زوم یوزرز برای ارائه روشهای دسترسی به سرویس های گوگل و راه اندازی فیلترشکن برای کاربران ایرانی می باشد.
+
+---
+
 ## 📋 خلاصه تمام Secretها
 
 | Secret Name | Workflowها | الزامی؟ | توضیح |
 |---|---|---|---|
-| `YOUTUBE_COOKIES` | youtube-downloader, aio-leecher | اختیاری | کوکی یوتیوب (با robots.txt بگیرید) |
-| `INSTAGRAM_COOKIES` | instagram-downloader, aio-leecher | اختیاری | کوکی اینستاگرام (با robots.txt بگیرید) |
-| `X_COOKIES` | x-downloader, aio-leecher | **الزامی** | کوکی X/توییتر (با robots.txt بگیرید) |
+| `YOUTUBE_COOKIES` | downloader-youtube, aio-leecher | اختیاری | کوکی یوتیوب (با robots.txt بگیرید) |
+| `INSTAGRAM_COOKIES` | downloader-instagram, aio-leecher | اختیاری | کوکی اینستاگرام (با robots.txt بگیرید) |
+| `X_COOKIES` | downloader-x, aio-leecher | **الزامی** | کوکی X/توییتر (با robots.txt بگیرید) |
 | `TUNNEL_AUTH_KEY` | exit-nodeها | اختیاری | رمز PSK دلخواه برای تونل |
 | `CF_TUNNEL_TOKEN` | exit-nodeهای استاتیک | اختیاری | توکن تونل Cloudflare |
 | `GOOGLE_CLIENT_ID` | تمام workflowها (آپلود در Drive) | اختیاری | OAuth Client ID از Google Cloud |
