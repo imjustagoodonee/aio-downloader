@@ -7,6 +7,84 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/07 00:09
+---
+
+## aBBCdaPutaria — post 8274
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8274_1779914385.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8273
+
+
+
+
+## aBBCdaPutaria — post 8272
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8272_1779914386.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8271
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8271_1779914388.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8270
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8270_1779914389.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8269
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8269_1779914390.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8268
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8268_1779914391.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8267
+
+
+
+
+## aBBCdaPutaria — post 8265
+
+
+
+
+## aBBCdaPutaria — post 8264
+
+
+
+
+---
 📅 بروزرسانی: 1405/03/06 16:09
 ---
 
