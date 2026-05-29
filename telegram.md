@@ -7,6 +7,108 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/08 16:01
+---
+
+## aBBCdaPutaria — post 8341
+
+
+
+
+## aBBCdaPutaria — post 8340
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8340_1780057871.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8339
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8339_1780057872.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8338
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8338_1780057873.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8337
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8337_1780057873.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8336
+
+
+
+
+## aBBCdaPutaria — post 8335
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8335_1780057874.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8334
+
+
+
+
+## aBBCdaPutaria — post 8332
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8332_1780057875.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8331
+
+<div align="center">
+  <img src="telegram/content/aBBCdaPutaria_8331_1780057875.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+LeanBeefPatty está irritada com uso de IA . Então a partir de agora irei focar em fazer edits dela diariamente . Para caso a regulação que ela está pedindo seja alcançada eu possa espalhar imagens dela pela internet eternamente 😁❤️
+</div>
+
+## aBBCdaPutaria — post 8330
+
+
+
+
+## aBBCdaPutaria — post 8329
+
+
+
+
+## aBBCdaPutaria — post 8328
+
+
+
+
+## aBBCdaPutaria — post 8327
+
+
+
+
+---
 📅 بروزرسانی: 1405/03/08 03:49
 ---
 
