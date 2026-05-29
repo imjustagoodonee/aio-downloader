@@ -7,6 +7,140 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/09 00:34
+---
+
+## aBBCdaPutaria — post 8366
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8366_1780088682.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8365
+
+
+
+
+## aBBCdaPutaria — post 8362
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+LeanBeefPatty está irritada com uso de IA . Então a partir de agora irei focar em fazer edits dela diariamente . Para caso a regulação que ela está pedindo seja alcançada eu possa espalhar imagens dela pela internet eternamente 😁❤️
+</div>
+
+## aBBCdaPutaria — post 8358
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8358_1780088683.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8357
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8357_1780088683.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8355
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8355_1780088684.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8354
+
+<div align="center">
+  <img src="telegram/content/aBBCdaPutaria_8354_1780088685.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📷 Photo
+</div>
+
+## aBBCdaPutaria — post 8350
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8350_1780088685.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8349
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8349_1780088686.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8348
+
+
+
+
+## aBBCdaPutaria — post 8347
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8347_1780088687.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8346
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8346_1780088687.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8345
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8345_1780088688.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8344
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8344_1780088689.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8343
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8343_1780088689.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8342
+
+
+
+
+---
 📅 بروزرسانی: 1405/03/08 16:01
 ---
 
