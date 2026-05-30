@@ -7,6 +7,46 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/10 03:17
+---
+
+## aBBCdaPutaria — post 8399
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8399_1780184835.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8398
+
+<div align="center">
+  <a href="telegram/content/aBBCdaPutaria_8398_1780184836.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## aBBCdaPutaria — post 8397
+
+<div align="center">
+  <img src="telegram/content/aBBCdaPutaria_8397_1780184838.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📷 Photo
+</div>
+
+## aBBCdaPutaria — post 8396
+
+<div align="center">
+  <img src="telegram/content/aBBCdaPutaria_8396_1780184838.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📷 Photo
+</div>
+
+---
 📅 بروزرسانی: 1405/03/09 23:48
 ---
 
